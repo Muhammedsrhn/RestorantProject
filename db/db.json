@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "name": "muhammed",
+      "email": "muhammed@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "name": "a",
+      "email": "a",
+      "password": "a",
+      "id": 2
+    }
+  ],
+  "restorants": [
+    {
+      "name": "aaaaaaaaaa",
+      "contact": "aaaaaaaa",
+      "adress": "aaaaaaaa",
+      "id": 6
+    },
+    {
+      "name": "aaaaaaaaaa",
+      "contact": "aaaaaaaa",
+      "adress": "aaaaaaaa",
+      "id": 7
+    },
+    {
+      "name": "aaaaaaaaa",
+      "contact": "2222",
+      "adress": "aaaaaaaa",
+      "id": 8
+    },
+    {
+      "name": "Nusret",
+      "contact": "12212",
+      "adress": "İstanbul",
+      "id": 9
+    }
+  ]
+}
